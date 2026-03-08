@@ -8,7 +8,7 @@
 
 **Category**: Cryptography
 
-**Files**: `cybersecurity/dice_ctf/protocol.py`, `public.txt`, `challenge.txt`
+**Challenge Files**: `protocol.py`, `public.txt`, `challenge.txt`
 
 ### Protocol summary
 
