@@ -5,7 +5,9 @@
 ## DiceCTF — protocol.py (2026-03-07)
 
 **Flag**: `dice{plane_or_planar_my_w0rds_4r3_411_knotted_up}`
+
 **Category**: Cryptography
+
 **Files**: `cybersecurity/dice_ctf/protocol.py`, `public.txt`, `challenge.txt`
 
 ### Protocol summary
